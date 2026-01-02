@@ -1,5 +1,5 @@
 
-  # Complete MyArea Community App UI
+  # MyArea Community App
 
   This is a code bundle for Complete MyArea Community App
   
